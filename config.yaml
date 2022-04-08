@@ -1,0 +1,7 @@
+migrator:
+  source: file://./migrations
+
+db:
+  driver: sqlite
+  sqlite:
+    dsn: ./db

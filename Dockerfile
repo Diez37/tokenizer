@@ -33,4 +33,4 @@ COPY config.yaml .
 
 ENTRYPOINT ["/app/app"]
 
-CMD ["-v"]
+CMD []
